@@ -69,7 +69,11 @@ The project is contained within a single `flag.cpp` file, structured as follows:
 
 ## Screenshots
 
-_(To be added: Include a screenshot or GIF of the waving flag simulation here.)_
+
+https://github.com/user-attachments/assets/b6834a48-1fb9-4d46-a2c0-3467126b7b40
+
+
+
 
 ## Future Enhancements
 
