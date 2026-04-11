@@ -91,7 +91,7 @@ This project is open-source and available under the MIT License.
 
 - **adn1sk**
 
-- ##CONTACT ME:
-- GMAIL: adammoha0987@gmail.com
-- X: @ADN1SK
+_**- CONTACT ME:**_
+- **GMAIL:** adammoha0987@gmail.com
+-** X:** @ADN1SK
 - ## 
